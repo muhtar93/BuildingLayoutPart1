@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/Public/Training/BuildingLayoutPart1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e0d73bb1fac6d15c058e6d110b3c0205f97ca455">
+        <dex dex="/Users/muhtar/Public/Training/BuildingLayoutPart1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_65f3ce73c3c000987598d481f32638e4e6fccaae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/Public/Training/BuildingLayoutPart1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/muhtar/Public/Training/BuildingLayoutPart1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a670e912172dedb6ab119121b680a4bfb485e91b/classes.dex" />
+    </item>
+
+</items>

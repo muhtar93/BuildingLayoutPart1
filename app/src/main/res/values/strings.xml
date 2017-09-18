@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BuildingLayoutPart1</string>
+    <string name="nama">Muhtar</string>
+    <string name="alamat">Jl. Pratista Barat V No. 30</string>
+    <string name="ttl">Cirebon, 08 Desember 1989</string>
+    <string name="pendidikan">STT Telkom Teknik Informatika 2008</string>
 </resources>
